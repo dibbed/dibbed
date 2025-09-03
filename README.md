@@ -3,20 +3,23 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ali0.0kh1380@gmail.com"><img src="https://img.shields.io/badge/Email-ali0.0kh1380%40gmail.com-0b84ff?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://t.me/dibbed"><img src="https://img.shields.io/badge/Telegram-@dibbed-26A5E4?style=flat&logo=telegram&logoColor=white" alt="telegram"/></a>
-  <a href="https://github.com/dibbed"><img src="https://img.shields.io/badge/GitHub-dibbed-000000?style=flat&logo=github" alt="github"/></a>
+  <a href="mailto:ali0.0kh1380@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ali0.0kh1380%40gmail.com-0b84ff?style=flat&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://t.me/dibbed">
+    <img src="https://img.shields.io/badge/Telegram-@dibbed-26A5E4?style=flat&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
+  <a href="https://github.com/dibbed">
+    <img src="https://img.shields.io/badge/GitHub-dibbed-000000?style=flat&logo=github" alt="github"/>
+  </a>
+  <a href="https://wakatime.com/@dibbed">
+    <img src="https://wakatime.com/badge/user/1cafc019-2a3d-4fb8-8581-07c0caa1c7e5.svg" alt="WakaTime coding activity"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=dibbed&label=views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
----
 
-### 🚀 What I Ship
-
-- ⚙️ **Backend APIs** — FastAPI/Flask, async-first, clean architecture, testable and production-ready.
-- 🤖 **Telegram Bot Ecosystems** — storefronts, crypto payments, moderation, downloaders, fun/utility bots.
-- 🕸️ **Scraping & Automation** — seat-snipers, backup tools, schedulers, retries, proxy rotation, error recovery.
-- 🧠 **AI in real workflows** — smart translation, NLP prompts, and assistant features in production bots.
+<p align="center"><em>I design Telegram-first systems — bots, scraping, automation, dashboards, and backend APIs.</em></p>
 
 ---
 
@@ -42,7 +45,7 @@
 <img src="https://img.shields.io/badge/requests-000000?logo=python&logoColor=white" />
 </p>
 
-**Bots 🤖**
+**Telegram Bots 🤖**
 <p>
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
 <img src="https://img.shields.io/badge/Pyrogram-143?logo=python&logoColor=white" />
@@ -51,15 +54,6 @@
 <img src="https://img.shields.io/badge/Aiogram-143?logo=python&logoColor=white" />
 </p>
 
-**Web 🌐**
-<p>
-<img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-264de4?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind-38BDF8?logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white" />
-</p>
 
 **Data & Storage 🗄️**
 <p>
@@ -91,11 +85,28 @@
 **DevOps & Monitoring 🛠️**
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker--Compose-384D54?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Uvicorn-000000?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenTelemetry-7B3BF2?logo=opentelemetry&logoColor=white" />
+<img src="https://img.shields.io/badge/cron-000000?logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/systemd-000000?logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Invoke-000000?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Tor-7E4798?logo=tor-project&logoColor=white" />
 <img src="https://img.shields.io/badge/Webshare%20Proxy-000000?logo=python&logoColor=white" />
 </p>
+
+**Other Languages 🧩**
+<p>
+<img src="https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-000000?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-000000?logo=lua&logoColor=white" />
+</p>
+
 
 ---
