@@ -100,13 +100,10 @@
 <img src="https://img.shields.io/badge/Webshare%20Proxy-000000?logo=python&logoColor=white" />
 </p>
 
-**Other Languages 🧩**
+**Other Languages 🧩** _(used occasionally, not core focus)_
 <p>
 <img src="https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-000000?logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Lua-000000?logo=lua&logoColor=white" />
 </p>
-
-
----
