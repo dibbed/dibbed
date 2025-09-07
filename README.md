@@ -19,7 +19,8 @@
 </p>
 
 
-<p align="center"><em>I design Telegram-first systems — bots, scraping, automation, dashboards, and backend APIs.</em></p>
+<p align="center"><em>I build Telegram-first systems with smart bots, automation, scraping, dashboards, and scalable backend APIs.</em></p>
+<p align="center"><em>Curiosity isn't a trait, it's my operating system.</em></p>
 
 ---
 
